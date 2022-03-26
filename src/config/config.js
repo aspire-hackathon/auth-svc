@@ -1,3 +1,3 @@
 module.exports = {
-  mongoURI: 'mongodb://mongo:27017/user-db',
+  mongoURI: 'mongodb+srv://aspire:hackathon@cluster0.cfdqn.mongodb.net/usermgt?retryWrites=true&w=majority',
 };
